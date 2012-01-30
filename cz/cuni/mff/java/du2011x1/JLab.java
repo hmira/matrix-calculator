@@ -22,7 +22,9 @@ public class JLab {
 	}*/
 	  
 	
-	  
+	  /*
+	   * Equation reader, parses input
+	   * */
 	  EquationReader er = new EquationReader();
 	  try {
 		er.Read(false);
